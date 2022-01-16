@@ -32,8 +32,8 @@ $form = new-Object 'System.Window.Forms.Forms'
 	$form.MinimumSize = '1190, 750'
 	$form.Name = 'formWindowsToolbox'
 	$form.ShowIcon = $False
-	$form.Text = 'Windows ToolBox'
-	$form.TransparencyKey = 'White'
+	$form.Text = 'Windows ToolBox by 165Hz'
+	$form.TransparencyKey = 'black'
 
 
 $labelActivateWindows = New-Object 'System.Window.Forms.Label'
